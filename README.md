@@ -11,7 +11,7 @@ Maybe you can mention me or this repo in the acknowledgements too
     A Online Exam portal website with backend in Nodejs and frontend in React js 
   </p>
   
-<!-- Badges -->
+<!---- Badges -->
 <p>
   <a href="https://github.com/chintan-golakiya/online-exam-portal/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/chintan-golakiya/online-exam-portal" alt="contributors" />
