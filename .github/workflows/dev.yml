@@ -26,7 +26,7 @@ jobs:
 
     - name: Run Frontend Tests
       run: |
-        cd frontend
+        cd frontend/src
         npm test  # Adjust this command based on your testing process for the frontend
 
   backend-tests:
